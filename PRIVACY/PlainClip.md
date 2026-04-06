@@ -8,7 +8,6 @@ This document describes how the apps listed below handle information. Each app h
 **Feedback:** You may use **[GitHub Discussions](https://github.com/dantonoli/developer-support/discussions)** for some apps. That site is operated by a third party with its own privacy policy.
 
 ---
-PRIVA
 ## PlainClip
 
 PlainClip is a macOS menu bar utility that cleans the system pasteboard on your Mac.
