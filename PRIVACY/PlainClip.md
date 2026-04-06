@@ -1,14 +1,14 @@
-# Privacy policy — Claudio D'Antonoli
+# Privacy policy
 
 **Last updated:** April 7, 2026
 **Contact:** development_support@icloud.com
 
-This document describes how apps published by **Claudio D'Antonoli** handle information. Each app has its own section below. Unless a section says otherwise, we do **not** operate a backend that receives your personal content from that app for our own analytics or resale.
+This document describes how the apps listed below handle information. Each app has its own section. Unless a section says otherwise, we do **not** operate a backend that receives your personal content from that app for our own analytics or resale.
 
 **Feedback:** You may use **[GitHub Discussions](https://github.com/dantonoli/developer-support/discussions)** for some apps. That site is operated by a third party with its own privacy policy.
 
 ---
-
+PRIVA
 ## PlainClip
 
 PlainClip is a macOS menu bar utility that cleans the system pasteboard on your Mac.
