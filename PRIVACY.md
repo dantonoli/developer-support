@@ -1,37 +1,46 @@
-# PlainClip — privacy policy (excerpt)
+# Privacy policy — Claudio D'Antonoli
 
-Use this text under the **PlainClip** heading in your **central** public repo `PRIVACY.md` (see `docs/support-and-privacy-repo.md` and `docs/multi-app-privacy-policy.template.md`). For App Store Connect, point the Privacy Policy URL at that published section (e.g. `…/PRIVACY.md#plainclip`).
+**Last updated:** April 7, 2026
+**Contact:** development_support@icloud.com
+
+This document describes how apps published by **Claudio D'Antonoli** handle information. Each app has its own section below. Unless a section says otherwise, we do **not** operate a backend that receives your personal content from that app for our own analytics or resale.
+
+**Feedback:** You may use **[GitHub Discussions](https://github.com/dantonoli/developer-support/discussions)** for some apps. That site is operated by a third party with its own privacy policy.
 
 ---
 
-**Last updated:** April 6, 2026
+## PlainClip
 
-PlainClip (“the app”) is a macOS menu bar utility that cleans the system pasteboard on your Mac. This policy describes how the app handles information. **PlainClip does not collect personal data for us to store on our servers**—the app has no backend that receives your clipboard or analytics from us.
+PlainClip is a macOS menu bar utility that cleans the system pasteboard on your Mac.
 
-## What the app does on your device
+### What the app does on your device
 
 - **Clipboard (pasteboard):** The app reads and writes the **general pasteboard** only to apply the cleaning features you enable (for example plain text conversion, optional URL parameter cleanup, quote normalization). Processing happens **locally on your Mac**. We do **not** receive a copy of your clipboard.
 - **Settings:** Your preferences are stored with **UserDefaults** on your device (standard macOS app storage).
 - **No account:** PlainClip does not require sign-in.
 
-## What we do not do
+### What we do not do (PlainClip)
 
 - We do **not** sell your personal information.
-- We do **not** use in-app analytics, advertising SDKs, or crash reporters that send data to us in the current product.
-- We do **not** track you across other companies’ apps or websites for advertising (no App Tracking Transparency “tracking” in that sense).
+- We do **not** use in-app analytics, advertising SDKs, or crash reporters that send data to us in the current product (unless you add them later—then update this section).
+- We do **not** track you across other companies’ apps or websites for advertising in the App Tracking Transparency sense.
 
-## Feedback and links
-
-If you use **Send Feedback**, the app may open a **web page** (for example GitHub Discussions) in your browser. That site is operated by a third party and has its own privacy policy. We do not control what you type there.
-
-## Children
+### Children (PlainClip)
 
 PlainClip is not directed at children under 13, and we do not knowingly collect their personal information through the app.
 
+### Privacy questions (PlainClip)
+
+Use the contact email at the top of this document.
+
+---
+
+## Other apps
+
+Additional apps will be listed in this document when they are published.
+
+---
+
 ## Changes
 
-We may update this policy when the app changes. The “Last updated” date above will change when we do.
-
-## Contact
-
-For privacy questions about PlainClip: **[your-email@example.com]** (replace before publishing).
+We may update this policy when our apps change. The **Last updated** date at the top will change when we do.
